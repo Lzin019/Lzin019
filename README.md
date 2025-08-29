@@ -17,7 +17,7 @@
 ### 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/luiz-felipe-allage-dionysio" target="_blank">
+  <a href="https://www.linkedin.com/in/luiz-felipe-allage-dionysio-97ba77348/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:luiz.felipeallagedd@gmail.com">
