@@ -1,14 +1,16 @@
-## Hi there 👋
+## 👋 Olá! Eu sou Luiz Felipe D.
 
-**Lzin019/Lzin019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e soluções eficientes.
 
-Here are some ideas to get you started:
+💻 Foco em [*coloque aqui sua stack principal*]  
+🚀 Em busca de desafios que expandam meu conhecimento e impacto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📚 Sempre aprendendo algo novo, de código limpo a boas práticas de arquitetura.  
+🌍 Aberto a colaborações em projetos open source e networking com a comunidade tech.
+
+📫 Como me encontrar:  
+{instagram}: eu.lzin
+
+---
+
+⭐ Vamos codar algo incrível juntos!
