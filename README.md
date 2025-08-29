@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Luiz Felipe D. 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Desenvolvedor+De+Ds;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,20 +9,18 @@
 ### 🚀 Sobre mim
 
 - 💡 Gosto de transformar ideias em código funcional  
-- 🔧 Stack principal: *[coloque sua stack principal aqui]*  
-- 📘 Atualmente aprendendo: *[tecnologias ou ferramentas]*  
 - 🌱 Sempre buscando evoluir como dev e pessoa  
-- 🎯 Interesses: *Open Source, Projetos Web, APIs, Cloud*
+- 🎯 Interesses: Lgpd, 
 
 ---
 
 ### 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://linkedin.com/in/seu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/luiz-felipe-allage-dionysio" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:luiz.felipeallagedd@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
