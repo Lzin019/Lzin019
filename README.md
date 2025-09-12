@@ -35,5 +35,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsd
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lzin 019)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lzin019)](https://github.com/ryo-ma/github-profile-trophy)
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lzin019&show_icons=true&theme=solarized&rank_icon=true)](https://github.com/anuraghazra/github-readme-stats)
