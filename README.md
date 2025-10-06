@@ -10,7 +10,6 @@
 
 - 💡 Gosto de transformar ideias em código funcional  
 - 🌱 Sempre buscando evoluir como dev e pessoa  
-- 🎯 Interesses: Lgpd, 
 
 ---
 
