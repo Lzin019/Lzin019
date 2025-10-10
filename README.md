@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Luiz Felipe D. 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Desenvolvedor+De+Ds;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Desenvolvedor+De+Sistemas;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 </p>
 
 ---
