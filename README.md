@@ -6,12 +6,10 @@
 
 ## 💫 Sobre Mim
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e elegantes. Atualmente, estou focado em aprimorar minhas habilidades em **[Sua Tecnologia Principal, ex: React.js]** e **[Outra Tecnologia, ex: Node.js]**. Acredito que o aprendizado contínuo é a chave para o sucesso no desenvolvimento de software.
+Sou um desenvolvedor apaixonado por criar soluções inovadoras e elegantes. Atualmente, estou focado em aprimorar minhas habilidades em **Segurança Cibernética** e **Java**. Acredito que o aprendizado contínuo é a chave para o sucesso no desenvolvimento de software.
 
-- 🔭 Atualmente trabalhando em **[Seu Projeto Atual]**
-- 🌱 Aprendendo mais sobre **[O que você está aprendendo]**
-- 💬 Pergunte-me sobre **[Assuntos que você domina]**
-- 📫 Como me encontrar: [luiz.felipe14@aluno.senai.br](mailto:luiz.felipe14@aluno.senai.br)
+- 🔭 Atualmente trabalhando em **Criação De Jogos**
+- 🌱 Aprendendo mais sobre **Lgpd**
 
 ---
 
@@ -79,11 +77,6 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 Adoraria me conectar com você! Sinta-se à vontade para entrar em contato através dos seguintes canais:
 
 - **Email:** luiz.felipe14@aluno.senai.br
-- **LinkedIn:** [Seu Perfil no LinkedIn]
-- **Instagram:** [Seu Perfil no Instagram]
+- **Instagram:** https://www.instagram.com/eu.lzin/
 
 ---
-
-Lembre-se de substituir `[SEU_USUARIO_GITHUB]`, `[Seu Perfil no LinkedIn]`, `[Seu Perfil no Instagram]`, `[Sua Tecnologia Principal, ex: React.js]`, `[Outra Tecnologia, ex: Node.js]`, `[Seu Projeto Atual]`, `[O que você está aprendendo]` e `[Assuntos que você domina]` pelas suas informações reais.
-
-Espero que você goste do seu novo perfil!
