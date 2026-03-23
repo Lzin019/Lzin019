@@ -11,10 +11,10 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Led%20Light.png" alt="Led Light" width="35" height="35" /> 💫 Sobre Mim
 
 <p align="right">
-  <img src="https://i.imgur.com/8u1b7Tf.gif" width="180px" style="float: right; margin-left: 30px; margin-top: -20px;">
+  <img src="https://i.imgur.com/u0m7G5W.gif" width="120px" style="float: right; margin-left: 20px;">
 </p>
 
-Sou um desenvolvedor focado em criar soluções eficientes e elegantes. Atualmente, busco aprimorar meus conhecimentos em **[Sua Tecnologia Principal]** e contribuir para projetos de código aberto. Minha paixão é transformar café e lasanha em código bonito e funcional.
+Sou um desenvolvedor focado em criar soluções eficientes e elegantes. Atualmente, busco aprimorar meus conhecimentos em **[Sua Tecnologia Principal]** e contribuir para projetos de código aberto. Minha paixão é transformar café em código bonito e funcional.
 
 * 🌱 Aprendendo mais sobre **[Tecnologia/Framework]**
 * 💬 Pergunte-me sobre **o meu curso**
