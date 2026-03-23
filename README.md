@@ -65,7 +65,7 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 ## 👾 Meu Jardim Digital
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[SEU_USUARIO_GITHUB]&theme=dracula" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lzin019&theme=dracula" width="100%" />
 </p>
 
 <p align="center">
