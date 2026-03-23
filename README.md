@@ -57,7 +57,7 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB]&layout=compact&langs_count=7&theme=nord" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lzin019&layout=compact&langs_count=7&theme=nord" />
 </p>
 
 ---
