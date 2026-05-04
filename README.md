@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=220&section=header&text=Luiz%20Felipe&fontSize=80&fontColor=FFFF00&fontAlign=50&fontAlignY=35&desc=Desenvolvedor%20%7C%20Criador%20%7C%20Entusiasta%20Tecnológico&descSize=25&descAlign=50&descAlignY=60&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3CACE4&height=220&section=header&text=Luiz%20Felipe&fontSize=80&fontColor=FFE066&fontAlign=50&fontAlignY=35&desc=Desenvolvedor%20%7C%20Criador%20%7C%20Entusiasta%20Tecnológico&descSize=25&descAlign=50&descAlignY=60&animation=fadeIn" width="100%"/>
 </div>
 
 ## 💫 Sobre Mim
