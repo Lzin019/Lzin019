@@ -4,7 +4,7 @@
 
 ## 💫 Sobre Mim
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e elegantes. Atualmente, estou focado em aprimorar minhas habilidades em **Segurança Cibernética** e **Java**. Acredito que o aprendizado contínuo é a chave para o sucesso no desenvolvimento de software.
+Sou um desenvolvedor apaixonado por criar soluções inovadoras e elegantes. Acredito que o aprendizado contínuo é a chave para o sucesso.
 
 ## 🛠️ Tecnologias e Ferramentas
 
