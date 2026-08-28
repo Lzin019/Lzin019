@@ -38,27 +38,6 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lzin019&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lzin019&layout=compact&langs_count=7&theme=nord" />
-</p>
-
----
-
-## 👾 Meu Jardim Digital
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lzin019&theme=dracula" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashwin-S-S/Ashwin-S-S/master/assets/coder.gif" width="150px">
-</p>
-
----
-
 ## 📫 Contato
 
 Adoraria me conectar com você! Sinta-se à vontade para entrar em contato através dos seguintes canais:
